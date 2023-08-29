@@ -6,4 +6,4 @@ Python Course for AI23
 
 - Course
 - Python
-- AO
+- AI
