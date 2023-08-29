@@ -10,4 +10,4 @@ Python Course for AI23
 
 
 print("Hej")
-prnt("Hej")
+print("Hej")
