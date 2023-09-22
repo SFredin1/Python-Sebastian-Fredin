@@ -9,5 +9,3 @@ Python Course for AI23
 - AI
 
 
-print("Hej")
-print("Hej")
