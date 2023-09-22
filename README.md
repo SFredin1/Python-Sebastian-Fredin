@@ -1,8 +1,8 @@
 # Python-Sebastian-Fredin
 Python Course for AI23 ITHS
-## My subscaption
+## Repo about excercises in Python course for AI23 ITHS
 
-Python Course for AI23
+Here i will post excercises and tasks related to the course.
 
 - Course
 - Python
