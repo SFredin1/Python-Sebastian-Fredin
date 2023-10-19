@@ -152,6 +152,8 @@ class Circle:
             raise ValueError("Translation values must be valid numbers.")
         self.x += dx
         self.y += dy
+           
+
 
 
     def is_point_inside(self, point_x, point_y):

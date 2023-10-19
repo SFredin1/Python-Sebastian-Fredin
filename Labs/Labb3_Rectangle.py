@@ -145,6 +145,7 @@ class Rectangle:
         self.x += dx
         self.y += dy
 
+
     def is_point_inside(self, point_x, point_y):
         """
         Check if a point with coordinates (point_x, point_y) is inside the rectangle.
