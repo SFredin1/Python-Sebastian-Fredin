@@ -145,7 +145,11 @@ class Circle:
         Parameters:
         - dx (float): The horizontal translation.
         - dy (float): The vertical translation.
+        Raises:
+         - ValueError: If dx or dy are not valid numbers.
         """
+        if not (isinstance(dx, (int, float)) and isinstance(dy, (int, float))):
+            raise ValueError("Translation values must be valid numbers.")
         self.x += dx
         self.y += dy
 
