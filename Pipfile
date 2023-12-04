@@ -10,6 +10,14 @@ nltk = "*"
 pandas = "*"
 sklearn = "*"
 scikit-learn = "*"
+joblib = "*"
+jinja2 = "*"
+lxml = "*"
+plotly-express = "*"
+nbformat = "*"
+openpyxl = "*"
+dash = "*"
+dash-bootstrap-templates = "*"
 
 [dev-packages]
 
